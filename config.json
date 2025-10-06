@@ -1,0 +1,6 @@
+{
+  "default_key_size": 2048,
+  "default_cert_days": 365,
+  "log_file": "data/logs/cli.log",
+  "modules": ["cert_manager", "code_signing", "key_management", "crypto"]
+}
